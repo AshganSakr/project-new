@@ -1,0 +1,121 @@
+*
+{
+	box-sizing:border-box; 
+}
+.navbar
+{
+	background-color:#1a1a1a;
+	
+	
+}
+ .navbar-nav .nav-item .nav-link:hover 
+{
+	color: #ec3237  !important;
+}
+
+.main-head
+{
+	height:900px;
+	background-image:url(img/cover.jpg);
+	background-size: cover;
+	background-position: center center;
+	margin: auto;
+    
+}                                                
+ .layer
+{
+	background-color:rgba(236, 51, 55, 0.7);
+	position: relative;
+	
+	width: 100%;
+	height: 100%;
+}
+.layer .caption
+{
+	padding-top:400px;
+	margin-left: 300px;
+}
+.caption h1
+{
+	font-size: 4em;
+}
+.layer a
+{
+	outline: 0;
+	text-decoration: none;
+   background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+.layer .btn-info:hover
+{
+	background-color: #fff;
+	color:#ec3237;
+}
+.progress-wrap .progress-title
+{
+	display:inline-block;
+	display: inline-block;
+    color: #777777;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+} 
+
+
+
+.what-do
+{
+	background-color: #f5f5f5;
+}
+.Do:hover i
+{
+	background-color:#ec3237; 
+}
+.image-icon
+{
+	background-image:url(img/project-counter.jpg); 
+	height:500px;
+	width:100%;
+
+	background-size: cover;
+	
+	
+    
+}
+.icon-info
+{
+	
+	text-align: center;
+	margin-top: 90px;
+	border-style:inset;
+	border-width: 0.3px;
+}
+.icon-info i
+{
+	color:#ec3237;
+	font-size: 20px;
+}
+.icon-info h6
+{
+	color:#ec3237;
+	
+}
+.my-portfolio
+{
+	background-color: #f5f5f5;;
+}
+.backimg
+{
+	
+	background-image:url(img/client-testimonial.jpg); 
+	height:500px;
+	width:100%;
+	background-size: cover;
+	background-position:center center;
+	background-attachment: fixed;
+	
+}
+.Developer img
+{
+	border-radius: 50%;
+}
